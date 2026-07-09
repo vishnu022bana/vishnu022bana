@@ -49,11 +49,11 @@ I am a Computer Applications student pursuing my **BCA at Dr. Preeti Global Univ
 - Refactoring the core API architecture into an enterprise-grade **Java / Spring Boot** environment, porting relational endpoints and data schemas to handle complex live routing seamlessly.
 - **Tech:** React, Java, Spring Boot, Django, SQLite.
 
-🖥️ **[Personal Portfolio Website](https://github.com/vishnu022bana)**
+🖥️ **[Personal Portfolio Website](https://vishnucodes.vercel.app/)**
 - Developed an asynchronous personal website infrastructure designed to display codebases, technical projects, and real-time execution results.
 - Built optimized styling sheets implementing modern layout mechanisms like CSS Flexbox for cross-device responsiveness.
 - Integrated dynamic UI animations and interactive DOM behaviors using native, vanilla JavaScript.
-- **Tech:** HTML5, CSS3, JavaScript (ES6), Responsive Layouts.
+- **Tech:** HTML5, CSS3, JavaScript (ES6), Reactjs, Responsive Layouts.
 
 ---
 
