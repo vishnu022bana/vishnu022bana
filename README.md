@@ -28,8 +28,6 @@ I am a Computer Applications student pursuing my **BCA at Dr. Preeti Global Univ
 
 ### ⚙️ Backend & Infrastructure
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧰 Tools & Deployment
@@ -45,7 +43,7 @@ I am a Computer Applications student pursuing my **BCA at Dr. Preeti Global Univ
 
 🥊 **[Fight Atlas (Alt UFC): Full-Stack Fighter Directory](https://alt-ufc.vercel.app/)**
 - Engineered a decoupled web application using **React (Vite)** and custom CSS to deliver a highly fluid UI showcasing detailed athlete statistics across 8 weight divisions.
-- Deployed an initial REST API backend prototype using **Django REST Framework** to quickly validate data structures, route handlers, and performance metric payloads.
+- Deployed an initial REST API backend prototype to quickly validate data structures, route handlers, and performance metric payloads.
 - Refactoring the core API architecture into an enterprise-grade **Java / Spring Boot** environment, porting relational endpoints and data schemas to handle complex live routing seamlessly.
 - **Tech:** React, Java, Spring Boot, Django, SQLite.
 
